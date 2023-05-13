@@ -1,5 +1,5 @@
 # Hybrid-Surf
-### [Paper](./thesis.pdf) | [Colab](https://colab.research.google.com/drive/1KlV5dZcD1l9_HPtf4Q_GvXDLv77MovzC#scrollTo=AW9eVsoKFOE9) 
+### [Paper](./thesis.pdf) | [Colab](https://colab.research.google.com/drive/1KlV5dZcD1l9_HPtf4Q_GvXDLv77MovzC?usp=sharing) 
 
 <p align="center">
   <a href="">
